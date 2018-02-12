@@ -1,7 +1,7 @@
 Agregando directorio nuevo
 
-bienvenido al workshop 
-temas 
+bienvenido al workshop CI
+temas: 
 -control de versiones 
-- triggerrs 
+-triggerrs 
 -automatizacion 
